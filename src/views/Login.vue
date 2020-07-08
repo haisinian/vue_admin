@@ -9,9 +9,9 @@
     name: "Login",
     components: {},
     methods: {},
-    mounted() {
-    },
+
   }
+
 </script>
 
 <style scoped>
